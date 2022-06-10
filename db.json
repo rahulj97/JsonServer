@@ -1,22 +1,132 @@
 {
   "data": [
     {
-      "p": {
+      "index": {
         "id": 1,
-        "title": "hello"
+        "name": "NIFTY",
+        "price": "17,245.45",
+        "change": "-69.85(0.40%)"
       },
-      "q": {
-        "id": 1,
-        "title": "hello"
-      },
-      "r": [
+      "listedStocks": [
         {
           "id": 1,
-          "title": "hello"
+          "name": "ICICI Prudential Focused Bluechip Equity Fund",
+          "price": "12293.01",
+          "change": "49.9",
+          "interval": "1D"
         },
         {
           "id": 2,
-          "title": "hello"
+          "name": "ICICI Prudential Focused Bluechip Equity Fund",
+          "price": "12293.01",
+          "change": "49.9",
+          "interval": "1D"
+        },
+        {
+          "id": 3,
+          "name": "ICICI Prudential Focused Bluechip Equity Fund",
+          "price": "12293.01",
+          "change": "49.9",
+          "interval": "1D"
+        },
+        {
+          "id": 4,
+          "name": "ICICI Prudential Focused Bluechip Equity Fund",
+          "price": "12293.01",
+          "change": "49.9",
+          "interval": "1D"
+        },
+        {
+          "id": 5,
+          "name": "ICICI Prudential Focused Bluechip Equity Fund",
+          "price": "12293.01",
+          "change": "49.9",
+          "interval": "1D"
+        },
+        {
+          "id": 6,
+          "name": "ICICI Prudential Focused Bluechip Equity Fund",
+          "price": "12293.01",
+          "change": "49.9",
+          "interval": "1D"
+        }
+      ],
+      "news": [
+        {
+          "id": 1,
+          "name": "ICICI Prudential Focused Bluechip Equity Fund"
+        },
+        {
+          "id": 2,
+          "name": "ICICI Prudential Focused Bluechip Equity Fund"
+        },
+        {
+          "id": 3,
+          "name": "ICICI Prudential Focused Bluechip Equity Fund"
+        }
+      ],
+      "portfolio": {
+        "id": 1,
+        "invested": "12239.01",
+        "current": "12239.01",
+        "returns": 45.8
+      },
+      "stocks": [
+        {
+          "id": 1,
+          "name": "Edelweilss Large Cap Dir",
+          "change": 2,
+          "price": 8000
+        },
+        {
+          "id": 2,
+          "name": "Edelweilss Large Cap Dir",
+          "change": 45.22,
+          "price": 8000
+        },
+        {
+          "id": 3,
+          "name": "Edelweilss Large Cap Dir",
+          "change": -9.22,
+          "price": 8000
+        },
+        {
+          "id": 4,
+          "name": "Edelweilss Large Cap Dir",
+          "change": 5.22,
+          "price": 8000
+        }
+      ],
+      "transactions": [
+        {
+          "id": 1,
+          "name": "Edelweilss Large Cap Dir",
+          "change": -1.32,
+          "price": 8000
+        },
+        {
+          "id": 2,
+          "name": "Edelweilss Large Cap Dir",
+          "change": 2.45,
+          "price": 8000
+        },
+        {
+          "id": 3,
+          "name": "Edelweilss Large Cap Dir",
+          "change": 22,
+          "price": 8000
+        },
+        {
+          "id": 4,
+          "name": "Edelweilss Large Cap Dir",
+          "change": -33,
+          "price": 8000
+        },
+        {
+          "id": 5,
+          "name": "Edelweilss Large Cap Dir",
+          "change": -1,
+          "price": 8000
         }
       ]
     }
